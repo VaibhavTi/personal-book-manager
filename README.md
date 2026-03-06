@@ -44,10 +44,10 @@ Screenshots
 ![Dashboard](screenshots/dashboard.png)
 
 ### Editing a Book
-![Edit](screenshots/edit.png)
+![Edit](screenshots/editList.png)
 
 ### filtering a booklist
-![filterList](screenshots/filterList.png)
+![filterList](screenshots/filtering.png)
 
 
 
